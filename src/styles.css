@@ -1,14 +1,8 @@
 /* You can add global styles to this file, and also import other style files */
 @import "~bootstrap/dist/css/bootstrap.css";
-/* @media (max-width: 767.98px) {
-    .table-responsive-md {
-      display: block;
-      width: 100%;
-      overflow-x: auto;
-      -webkit-overflow-scrolling: touch;
-     }
-    } */
-
-    .row{
-        text-align: center;
-    }
+.container{
+    background-color: dimgray
+}
+#profile{
+    margin-left: 15%;
+}

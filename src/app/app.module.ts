@@ -11,7 +11,6 @@ import { AppComponent } from './app.component';
 import { SearchComponent } from './search/search.component';
 import { SearchService } from './search.service';
 import { DateCountPipe } from './date-count.pipe';
-// import { NavComponent } from './nav/nav.component';
 
 
 const routes:Routes =[
